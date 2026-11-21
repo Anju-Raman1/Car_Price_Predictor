@@ -5,7 +5,7 @@ Predicts the selling price of a used car in India using polynomial regression, a
 ## 🔗 Live Demo
 **[Try the website here](https://anju-raman1.github.io/Car_Price_Predictor/)**
 
-![Website screenshot](screenshot.png)
+Prediction.png
 
 ## Problem
 Car prices depend on age, mileage, power, and brand in curved, overlapping ways, so a plain linear model can miss patterns. This project predicts a used car's price from its age, kilometres driven, engine size, power, brand, fuel type, transmission, and seller type, and tests whether polynomial regression does better than a linear model.
