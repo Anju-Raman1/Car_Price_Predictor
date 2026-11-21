@@ -47,7 +47,7 @@ The learned numbers (scaling values, polynomial powers, and coefficients) are ex
 Python, pandas, NumPy, Matplotlib, Seaborn, scikit-learn, HTML, JavaScript, GitHub Pages
 
 ## Files
-- `car_price_prediction.ipynb`: full analysis and model export
+- `Car_Price_Predictor.ipynb`: full analysis and model export
 - `index.html`: the website
 - `model.json`: the exported model
 
